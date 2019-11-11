@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo 'hello!!'
+echo 'hello!!(fix-B)'
 ped
 ls
