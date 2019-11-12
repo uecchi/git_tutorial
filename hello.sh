@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo 'hello!!(fix-B)'
-ped
+pwd	#fix: ped -> pwd
 ls
